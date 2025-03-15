@@ -1,5 +1,5 @@
 
-This is an e-commerce website that we developed in our 9th semester. The tools used for this project are PHP, JavaScript, HTML, and CSS. It uses the XAMPP local server for database handling.
+This is an e-commerce website that we developed. The tools used for this project are PHP, JavaScript, HTML, and CSS. It uses the XAMPP local server for database handling.
 1. FEATURES:<br>
 USER:<br>
 -LOG IN, LOG OUT, REGISTRATION<br>
