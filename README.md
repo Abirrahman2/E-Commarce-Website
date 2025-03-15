@@ -1,13 +1,14 @@
-#This is an e-commerce website developed using PHP, JavaScript, HTML, and CSS. It uses the XAMPP local server for database handling.
-#1.FEATURES:<br>
-#USER:<br>
+
+This is an e-commerce website that we developed in our 9th semester. The tools used for this project are PHP, JavaScript, HTML, and CSS. It uses the XAMPP local server for database handling.
+1. FEATURES:<br>
+USER:<br>
 -LOG IN, LOG OUT, REGISTRATION<br>
 -USER AUTHENTICATION<br>
 -USER CAN SEARCH THE PRODUCT ALSO CAN SELECT CATEGORY<br>
 -CART SYSTEM<br>
 -USER CAN SEE THE ORDER LIST AND PAYMENT INFORMATION<br>
 
-#ADMIN:<br>
+ADMIN:<br>
 -ADD PRODUCT, REMOVE PRODUCT<br>
 -TOTAL NUMBER OF ORDER PLACED<br>
 -TOTAL NUMBER OF USERS<br>
