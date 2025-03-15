@@ -8,12 +8,11 @@
 -USER CAN SEE THE ORDER LIST AND PAYMENT INFORMATION<br>
 
 #ADMIN:<br>
--ADD PRODUCT,REMOVE PRODUCT<br>
+-ADD PRODUCT, REMOVE PRODUCT<br>
 -TOTAL NUMBER OF ORDER PLACED<br>
 -TOTAL NUMBER OF USERS<br>
 -TOTAL NUMBER OF PRODUCTS<br>
 USER INTERFACE<br>
-HOME PAGE<br>
 ![image alt](https://github.com/Abirrahman2/E-Commarce-Website/blob/3901532d0987b36f4fc71ecccde7caaa327a0143/Homepage.png)
 
 ![image alt](https://github.com/Abirrahman2/E-Commarce-Website/blob/d222c183aba6031986d905d6a12ef4f523668ea0/Homepage2.png)
