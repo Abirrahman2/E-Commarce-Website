@@ -1,19 +1,19 @@
-This is an e-commerce website developed using PHP, JavaScript, HTML, and CSS. It uses the XAMPP local server for database handling.
-1.FEATURES:
-USER:
--LOG IN,LOG OUT,REGISTRATION
--USER AUTHENTICATION
--USER CAN SEARCH THE PRODUCT ALSO CAN SELECT CATEGORY
--CART SYSTEM
--USER CAN SEE THE ORDER LIST AND PAYMENT INFORMATION
+#This is an e-commerce website developed using PHP, JavaScript, HTML, and CSS. It uses the XAMPP local server for database handling.
+#1.FEATURES:<br>
+#USER:<br>
+-LOG IN, LOG OUT, REGISTRATION<br>
+-USER AUTHENTICATION<br>
+-USER CAN SEARCH THE PRODUCT ALSO CAN SELECT CATEGORY<br>
+-CART SYSTEM<br>
+-USER CAN SEE THE ORDER LIST AND PAYMENT INFORMATION<br>
 
-ADMIN:
--ADD PRODUCT,REMOVE PRODUCT
--TOTAL NUMBER OF ORDER PLACED
--TOTAL NUMBER OF USERS
--TOTAL NUMBER OF PRODUCTS
-USER INTERFACE
-HOME PAGE
+#ADMIN:<br>
+-ADD PRODUCT,REMOVE PRODUCT<br>
+-TOTAL NUMBER OF ORDER PLACED<br>
+-TOTAL NUMBER OF USERS<br>
+-TOTAL NUMBER OF PRODUCTS<br>
+USER INTERFACE<br>
+HOME PAGE<br>
 ![image alt](https://github.com/Abirrahman2/E-Commarce-Website/blob/3901532d0987b36f4fc71ecccde7caaa327a0143/Homepage.png)
 
 ![image alt](https://github.com/Abirrahman2/E-Commarce-Website/blob/d222c183aba6031986d905d6a12ef4f523668ea0/Homepage2.png)
